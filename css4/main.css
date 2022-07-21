@@ -1,0 +1,395 @@
+.container{
+    width: 1176px;
+    margin: auto;
+    background-color:yellow;
+    
+}
+.logo{
+    height: 50px;
+    display: flex;
+    justify-content: space-between;
+    background-color: aquamarine;
+}
+.banner2{
+    display: flex;
+    justify-content: space-around;
+}
+.apple{
+    height: 456px;
+    width: 1173px;
+}.header-about2{
+    height:358px ;    
+}
+.orange{
+    height:358px ;
+    width: 50%;
+    border: solid 2px;
+}
+.orange2{
+    height:358px ;
+    width: 50%;
+    border: solid 2px;
+}
+.down-about2{
+    height: 256px;
+}
+.lemon{
+    height:190px ;
+    width: 263px;
+    border: solid 2px;
+    margin: 20px 0 0 0; 
+}
+.lemon1{
+    height:190px ;
+    width: 263px;
+    border: solid 2px;
+    margin: 20px 0 0 0; 
+}
+.lemon2{
+    height:190px ;
+    width: 263px;
+    border: solid 2px; 
+    margin: 20px 0 0 0;
+}
+.lemon3{
+    height:190px ;
+    width: 263px;
+    border: solid 2px; 
+    margin: 20px 0 0 0;
+}
+.down-about2{
+    display: flex;
+    justify-content: space-between;
+}
+.header-about2{
+    display: flex;
+    justify-content: space-between;
+}
+.attraction{
+    height: 611px;
+}
+.img-let{
+display: flex;
+}
+.image-content3{
+    width: 50%;
+    height: 611px;
+    border: solid 1px;
+}
+.letter-content3{
+    height: 611px;
+}
+.word{
+    height: 220px;
+    width: 494px;
+    border: solid 2px;
+}
+.word1{
+    height: 210px;
+    width: 494px;
+    border: solid 2px;
+}
+.word2{
+    height: 82px;
+    width: 494px;
+    border: solid 2px;
+}
+.word3{
+    height: 80px;
+    width:494px ;
+    border: solid 2px;
+}
+.service2{
+    height: 932px;
+}
+
+.banana1{
+    height: 341px;
+    width:379px ;
+    border: solid 2px;
+    margin: 20px 20px 0 0;
+}
+.banana2{
+    height: 341px;
+    width:379px ;
+    border: solid 2px;
+    margin: 20px 20px 0 0;
+}
+    .banana3{
+        height: 341px;
+        width:379px ;
+        border: solid 2px;
+        margin: 20px 0 0 0;
+    }
+    .bananas{
+        display: flex;
+    }
+    .mango1{
+        height: 341px;
+        width:379px ;
+        border: solid 2px;
+        margin: 20px 20px 0 0;
+    }
+    .mango2{
+        height: 341px;
+        width:379px ;
+        border: solid 2px;
+        margin: 20px 20px 0 0;
+    }
+    .mango3{
+        height: 341px;
+        width:379px ;
+        border: solid 2px;
+        margin: 20px 0 0 0;
+    }
+    .mangos{
+        display: flex;
+    }
+    .testimonials{
+        height: 603px;
+    }
+    .head-testimonials{
+        height:188px ;
+        border:solid 2px ;
+    }
+    .graphes1{
+        height: 275px;
+        width:508px ;
+        border: solid 2px;
+        margin: 0 0 0 30px;
+    }
+    .graphes2{
+        height: 275px;
+        width:508px ;
+        border: solid 2px;
+        margin: 0 0 0 50px;
+    }
+    .down-head{
+        display: flex;
+    }
+    .calls-action{
+        height:319px ; 
+        border: solid 2px;
+    }
+    .portfolio3{
+        height: 1231px;
+    }
+    .head-portfolio3{
+        height:212px ;
+        border: solid 2px;
+    }
+    .cherry1{
+        height: 268px; 
+        width: 355px;
+        border: solid 2px;
+        margin:0 20px 0 0;
+    }  .cherry2{
+        height: 268px; 
+        width: 355px;
+        border: solid 2px;
+        margin:0 20px 0 0;
+        
+    }
+    .cherry3{
+        height: 268px; 
+        width: 355px;
+        border: solid 2px;
+        margin:0 20px 0 0;
+    }
+    .papaya1{
+        height: 268px; 
+        width: 355px;
+        border: solid 2px;
+        margin:0 20px 0 0;
+    }
+    .papaya2{
+        height: 268px; 
+        width: 355px;
+        border: solid 2px;
+        margin:0 20px 0 0;
+    }
+    .papaya3{
+        height: 268px; 
+        width: 355px;
+        border: solid 2px;
+        margin:0 20px 0 0;
+    }
+    
+    .kiwi1{
+        height: 268px; 
+        width: 355px;
+        border: solid 2px;
+    }
+    .kiwi2{
+        height: 268px; 
+        width: 355px;
+        border: solid 2px;
+    }
+    .kiwi3{
+        height: 268px; 
+        width: 355px;
+        border: solid 2px;
+    }
+    .fruits{
+        display: flex;
+
+    }
+    .teams3{
+        height: 590px;
+    }
+    .header-teams3{
+        height:160px ;
+        border: solid 2px;
+    }
+    .stawberrys1{
+        height: 260px;
+        width:262px ;
+        border:solid 2px ;
+        margin: 0 20px 0 0;
+    }
+    .stawberrys2{
+        height: 260px;
+        width:262px ;
+        border:solid 2px ;
+        margin: 0 20px 0 0;
+    }
+    .stawberrys3{
+        height: 260px;
+        width:262px ;
+        border:solid 2px ;
+        margin: 0 20px 0 0;
+    }
+    .stawberrys4{
+        height: 260px;
+        width:262px ;
+        border:solid 2px ;
+        margin: 0 20px 0 0;
+    }
+    .stawberrys{
+        display: flex;
+    }
+    .pricing{
+        height: 973px;
+    }
+    .header-pricing{
+        height: 193px;
+        border: solid 2px;
+    }
+    .limes1{
+        height:564px ;
+        width:360px ;
+        border:solid 2px ;
+        margin: 20px 30px 0 0;
+    }
+    .limes2{
+        height:564px ;
+        width:360px ;
+        border:solid 2px ;
+        margin: 20px 30px 0 0;
+    }
+    .limes3{
+        height:564px ;
+        width:360px ;
+        border:solid 2px ;
+        margin: 20px 0 0 0;
+    }
+    .limes{
+        display: flex;
+    }
+    .faq3{
+        height: 979px;
+    }
+    .header-faq2{
+        height:144px ;
+        border:solid 2px ;
+    }
+    .coconut1{
+        height:129px ;
+        width: 432px;
+        border:solid 2px ;
+    }
+    .coconut2{
+        height:129px ;
+        width: 432px;
+        border:solid 2px ;
+    }
+    .coconut3{
+        height:129px ;
+        width: 432px;
+        border:solid 2px ;
+    }
+    .coconut4{
+        height:129px ;
+        width: 432px;
+        border:solid 2px ;
+    }
+    .coconut5{
+        height:129px ;
+        width: 432px;
+        border:solid 2px ;
+    }
+    .jackfruit1{
+        height:129px ;
+        width: 657px;
+        border:solid 2px ;
+    }
+    .jackfruit2{
+        height:129px ;
+        width: 657px;
+        border:solid 2px ;
+    }
+    .jackfruit3{
+        height:129px ;
+        width: 657px;
+        border:solid 2px ;
+    }
+    .jackfruit4{
+        height:129px ;
+        width: 657px;
+        border:solid 2px ;
+    }
+    .jackfruit5{
+        height:129px ;
+        width: 657px;
+        border:solid 2px ;
+    }
+    .cocojack{
+        display: flex;
+        justify-content: space-between;
+    }
+    .contact4{
+        height: 621px;
+    }
+    .header-contact3{
+        height: 156px;
+        border: solid 2px;
+    }
+    .water-melon1{
+        height:179px ;
+        width: 550px;
+        border:solid 2px ;
+    }
+    .water-melon2{
+        height:205px ;
+        width: 269px;
+        border:solid 2px ;
+    }
+    .water-melon3{
+        height:205px ;
+        width: 269px;
+        border:solid 2px ;
+    }
+    
+    .pear1{
+        height:398px ;
+        width: 547px;
+        border:solid 2px ;
+
+    }
+.melon-pear{
+    display: flex;
+}
+.melons{
+    display: flex;
+}
+
