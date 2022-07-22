@@ -384,6 +384,7 @@ display: flex;
         height:398px ;
         width: 547px;
         border:solid 2px ;
+        margin: 0 0 0 30px ;
 
     }
 .melon-pear{
@@ -392,4 +393,48 @@ display: flex;
 .melons{
     display: flex;
 }
+.footer2{
+    height:430px ;
+    border:solid 2px ;
+}
+.plum1{
+    height:349px ;
+    width: 358px;
+    border:solid 2px ;
+
+}
+.plum2{
+    height:221px ;
+    width: 185px;
+    border:solid 2px ;
+
+}
+.plum3{
+    height:218px ;
+    width: 182px;
+    border:solid 2px ;
+
+}
+.plum4{
+    height:236px ;
+    width: 389px;
+    border:solid 2px ;
+
+}
+.plums{
+    display: flex;
+    justify-content: space-between;
+
+}
+.copy2{
+    height: 236px;
+    background-color: aquamarine;
+    
+}
+.copy-multi{
+    text-align: center;
+    padding-top: 10%;
+    
+}
+
 
