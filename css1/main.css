@@ -19,10 +19,36 @@
     justify-content: space-between;
 }
 .image-content{
-    height: 500px;
-    width: 500px;
+    height: auto;
+    width: 50%;
     border: solid 2px;
 }
+.arul{
+    height: auto;
+    width: 100%;
+}
+.letter-content{
+    height: auto;
+    width: 50%;
+}
+.voluptat{
+    padding-left:15px;
+    padding-top: 10px;
+}
+.corporis{
+    padding-left: 35px;
+    padding-top: 20px;
+}
+.ullamco{
+    padding-left: 35px;
+    padding-top: 20px;
+}
+.ris-nis{
+    padding-left: 35px;
+    padding-top: 20px;
+}
+
+
 .third1{
     width: 450px;
     height: 246px;
