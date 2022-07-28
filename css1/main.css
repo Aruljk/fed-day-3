@@ -45,7 +45,13 @@
 }
 .ris-nis{
     padding-left: 35px;
-    padding-top: 20px;
+    padding-top: 5px;
+}
+.third h2,h3,p{
+padding-left: 50px;
+}
+.down-third h2{
+    padding-left:50px ;
 }
 
 
@@ -67,29 +73,35 @@
     margin-left: 30px;
     height: 246px;
     border: solid 2px;
+
 }
 .third{
     display: flex;
+    background-color: rgb(240, 237, 234);
 }
 .down-third1{
     width:450px;
     height: 246px;
-    border: solid 2px;   
+    border: solid 2px; 
+   
 }
 .down-third2{
     width:450px;
     margin-left:30px ;
     height: 246px;
-    border: solid 2px;   
+    border: solid 2px; 
+      
 }
 .down-third3{
     width:450px;
     margin-left:30px ;
     height: 246px;
-    border: solid 2px;   
+    border: solid 2px;
+       
 }
 .down-third{
     display: flex;
+    background-color: rgb(240, 237, 234);;
 }
 .four{
     display: flex;
@@ -107,6 +119,15 @@
 .header-service{
     height: 191px;
     border: solid 2px;
+    
+}
+.header-service h2{
+    text-align: center;
+
+}
+.header-service p{
+    font-size: x-large;
+
 }
 .point1{
     height: 250px;
@@ -141,6 +162,12 @@
     height:191px;
     border:solid 2px ;
 }
+.header-testimonials h2{
+    text-align: center;
+}
+.header-testimonials p{
+    font-size: x-large;
+}
 .six1{
     height:445px ;
     width: 321px;
@@ -172,63 +199,111 @@
     height:299px ;
     border:solid 2px ;
 }
+.header-portfolio h2{
+    text-align: center;
+}
+.header-portfolio p{
+    font-size: x-large;
+}
 .down-seven{
     display: flex;
+    flex-wrap: wrap;
+}
+
+.image1{
+    height: 100%;
+    width: 100%;
 }
 .seven1{
     height:267px ;
     width:354px;
     border:solid 2px ;
-    margin: 0 0 0 ;
+    
 }
+.image2{
+    height: 100%;
+    width: 100%;
+}
+
 .seven2{
     height:267px ;
     width:354px;
     border:solid 2px ;
-    margin:31px 0 0 ;
+    
 }
+.image3{
+    height: 100%;
+    width: 100%;
+}
+
+
 .seven3{
     height:267px ;
     width:354px;
     border:solid 2px ;
-    margin:31px 0 0 ;
+    
 }
+.image4{
+    height: 100%;
+    width: 100%;
+}
+
+
 .seven4{
     height:267px ;
     width:354px;
     border:solid 2px ;
-    margin:0 0 0 24px;
+    
+}
+.image5{
+    height: 100%;
+    width: 100%;
 }
 .seven5{
     height:267px ;
     width:354px;
     border:solid 2px ;
-    margin:31px 0 0 24px;
+    
+}
+.image6{
+    height: 100%;
+    width: 100%;
 }
 .seven6{
     height:267px ;
     width:354px;
     border:solid 2px ;
-    margin:31px 0 0 24px;
+    
+}
+.image7{
+    height: 100%;
+    width: 100%;
 }
 .seven7{
     height:267px ;
     width:354px;
-    border:solid 2px ;
-    margin:0 0 0 24px;
+    border:solid 2px ;   
     
+}
+.image8{
+    height: 100%;
+    width: 100%;
 }
 .seven8{
     height:267px ;
     width:354px;
     border:solid 2px ;
-    margin:31px 0 0 24px ;
+    
+}
+.image9{
+    height: 100%;
+    width: 100%;
 }
 .seven9{
     height:267px ;
     width:354px;
     border:solid 2px ;
-    margin:31px 0 0 24px ;
+    
 }
 .teams{
     height: 548px;
